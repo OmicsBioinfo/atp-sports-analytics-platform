@@ -1,0 +1,23 @@
+# entorno virtual
+venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# vscode
+.vscode/
+
+# variables privadas
+.env
+
+# datos y resultados
+data/
+results/
+
+# sistema operativo
+.DS_Store
+Thumbs.db
