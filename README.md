@@ -2,7 +2,7 @@
 
 ¡Bienvenido a la **ATP Sports Analytics Platform**! Este proyecto es un pipeline avanzado de Ciencia de Datos y Machine Learning que analiza el rendimiento histórico del circuito profesional de la ATP, aplicando reducción dimensional (PCA) por superficies y generando reportes analíticos automatizados mediante Inteligencia Artificial.
 
-🌐 **[¡Haz clic aquí para ver el Dashboard Interactivo en vivo!]*(AQUÍ PEGAS TU LINK DE GITHUB PAGES)***
+🌐 **[¡Haz clic aquí para ver el Dashboard Interactivo en vivo!]*(https://omicsbioinfo.github.io/atp-sports-analytics-platform/interfaz.html)***
 
 ---
 
